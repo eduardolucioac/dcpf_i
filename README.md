@@ -6,7 +6,7 @@ Script for delete tracks using keyboard shortcuts in Amarok.  Is a change in "dc
 Install:
 -----
 
-With Amarok closed go to ...
+With Amarok closed go to...
 
 ```
 ~/.kde/share/apps/amarok
